@@ -106,13 +106,13 @@ Example messages:
 
 ## Example Output Messages
 
-Message 1: Happy Birthday!
-Message 2: Wish you a wonderful day
-Message 3: Stay healthy and strong
-Message 4: Success in everything you do
-Message 5: Keep smiling always
-Message 6: Enjoy your special day
-Message 7: Thank you and best wishes
+* Message 1: Happy Birthday!
+* Message 2: Wish you a wonderful day
+* Message 3: Stay healthy and strong
+* Message 4: Success in everything you do
+* Message 5: Keep smiling always
+* Message 6: Enjoy your special day
+* Message 7: Thank you and best wishes
 
 
 ## Final Result
