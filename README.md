@@ -129,5 +129,4 @@ Example messages:
 
 Septiyan Maulana Putra
 
-Shira Nuril Laili
 
