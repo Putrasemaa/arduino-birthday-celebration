@@ -1,3 +1,4 @@
+![alt text](https://github.com/Putrasemaa/arduino-birthday-celebration/blob/main/schematic_diagram.png?raw=true)
 # Happy Birthday Celebration with Arduino Uno
 
 ## Overview
