@@ -63,13 +63,13 @@ Custom library file that contains musical note definitions (example: NOTE_C5, NO
 Find this line:
 
 ```cpp
-lcd.print("    [NAME]");
+lcd.print("[NAME]");
 ```
 
 Replace with your name:
 
 ```cpp
-lcd.print("    Ciya");
+lcd.print("Ciya");
 ```
 
 Also change the final message:
