@@ -1,42 +1,61 @@
-# Happy Birthday Celebration with Arduino Uno
+# Arduino Project: Birthday Greeting
 
-## Overview
+## Description
 
-This project is an interactive birthday greeting system built using Arduino Uno. The system displays birthday messages on an LCD screen, creates decorative LED lighting effects, and plays the Happy Birthday song through a buzzer.
+This project uses an Arduino Uno to display a birthday message on a 16x2 I2C LCD and play the Happy Birthday song using a buzzer.
 
-## Features
+---
 
-* Displays birthday greetings on a 16x2 LCD.
-* Plays the Happy Birthday melody using a buzzer.
-* Creates attractive LED blinking patterns.
-* Easy to customize messages and melodies.
-* Suitable for Arduino learning projects and electronic celebrations.
-
-## Components Used
+## Components
 
 * Arduino Uno
-* LCD 16x2 I2C
-* Active/Passive Buzzer
-* LEDs
-* Resistors
-* Breadboard
-* Jumper Wires
+* 16x2 I2C LCD
+* Buzzer
+* Jumper wires
+
+---
+
+## Pin Connections
+
+### LCD I2C
+
+* SDA → A4
+* SCL → A5
+* VCC → 5V
+* GND → GND
+
+### Buzzer
+
+* Positive → Pin 11
+* Negative → GND
+
+---
 
 ## How It Works
 
-1. The LCD displays birthday greeting messages.
-2. LEDs blink in predefined patterns to create a festive effect.
-3. The buzzer plays the Happy Birthday song.
-4. All components work together to create an interactive birthday celebration.
+The Arduino displays a birthday message on the LCD, then the buzzer plays the Happy Birthday song.
 
-## Learning Objectives
+---
 
-* Understanding Arduino programming.
-* Using LCD displays with I2C communication.
-* Generating sound with a buzzer.
-* Controlling LEDs and creating lighting effects.
-* Integrating multiple electronic components into one project.
+## Circuit Diagram
 
-## Author
+![alt text](https://github.com/Putrasemaa/arduino-birthday-celebration/blob/main/schematic.png?raw=true)
+
+---
+
+## Final Result
+
+![alt text](https://github.com/Putrasemaa/arduino-birthday-celebration/blob/main/project.jpeg?raw=true)
+
+---
+
+## Wokwi Simulation
+
+You can view and run the simulation here:
+https://wokwi.com/projects/415953016426231809
+
+---
+
+## Creator
 
 Septiyan Maulana Putra
