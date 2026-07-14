@@ -127,6 +127,6 @@ Example messages:
 
 ## Creator
 
-Septiyan Maulana 
+Septiyan Maulana Putra
 
 
